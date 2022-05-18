@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/archive1.png</file>
+        <file>image/archive2.png</file>
+        <file>image/arrow.png</file>
+        <file>image/arrow1.png</file>
+        <file>image/background.png</file>
+        <file>image/blood.png</file>
+        <file>image/circle.png</file>
+        <file>image/clear.png</file>
+        <file>image/coin_001.png</file>
+        <file>image/coin_002.png</file>
+        <file>image/coin_003.png</file>
+        <file>image/coin_004.png</file>
+        <file>image/foggy.png</file>
+        <file>image/gameover.jpg</file>
+        <file>image/ground.png</file>
+        <file>image/hurt.png</file>
+        <file>image/info.png</file>
+        <file>image/instruction1.png</file>
+        <file>image/instruction2.png</file>
+        <file>image/jump.png</file>
+        <file>image/keyboard1.png</file>
+        <file>image/keyboard2.png</file>
+        <file>image/pause.jpg</file>
+        <file>image/run_1.png</file>
+        <file>image/run_2.png</file>
+        <file>image/run_3.png</file>
+        <file>image/run_4.png</file>
+        <file>image/run_5.png</file>
+        <file>image/startBtn1.png</file>
+        <file>image/startBtn2.png</file>
+        <file>image/title.png</file>
+        <file>image/wall1.png</file>
+        <file>image/wall2.png</file>
+        <file>sound/button.wav</file>
+        <file>sound/coin.wav</file>
+        <file>sound/collision.wav</file>
+        <file>sound/fazahng.wav</file>
+        <file>sound/jump.wav</file>
+        <file>sound/over.wav</file>
+        <file>sound/Theme.wav</file>
+        <file>image/greenBlood.png</file>
+        <file>image/gameBg0.png</file>
+        <file>image/gameBg1.png</file>
+    </qresource>
+</RCC>
